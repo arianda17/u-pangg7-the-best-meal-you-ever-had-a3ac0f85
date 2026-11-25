@@ -1,0 +1,1 @@
+console.log("My grandmother's hand-rolled gnocchi in her tiny Bologna kitchen, steam rising as she pressed each dumpling against the fork, tasting of butter, sage, and Sunday patience.");
